@@ -1,6 +1,6 @@
 # Normalização de Banco de Dados – 3FN
 
-### Professora Ellen Martins Lopes da Silva
+### Professora Ellen Martins Lopes da Silva - 28/09/2026
 
 ## 📚 Sobre o Projeto
 
